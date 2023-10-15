@@ -27,3 +27,8 @@ npm install
 ```bash
 node .
 ```
+
+*If you have nodemon installed you can simply do:
+```bash
+nodemon
+```
