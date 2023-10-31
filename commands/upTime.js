@@ -14,5 +14,5 @@ module.exports = {
             .setColor('#0099ff');
 
         await interaction.reply({ embeds: [embed] });
-    }
+    },
 };
